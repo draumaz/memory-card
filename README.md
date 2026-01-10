@@ -1,2 +1,2 @@
 # memory-card
-- lots of cool stuff :)
+- GameCube saves, autosynced often
