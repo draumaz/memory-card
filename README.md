@@ -1,2 +1,2 @@
 # memory-card
-- oh yeah
+- lots of cool stuff :)
