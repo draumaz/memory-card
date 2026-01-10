@@ -1,2 +1,2 @@
 # memory-card
-- GameCube saves, autosynced often
+- GameCube saves, autosynced often!
